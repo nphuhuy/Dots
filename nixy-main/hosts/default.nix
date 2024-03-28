@@ -1,0 +1,3 @@
+{inputs, ...}:{
+  imports = [ ./tuigreet ./fonts ];
+}
